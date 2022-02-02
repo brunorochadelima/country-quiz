@@ -1,0 +1,62 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body, footer {
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-image: url(./img/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #fff;
+}
+
+h2 {
+  color: #2F527B;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 .75rem;
+  border: 1px solid blue;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+  padding: 1rem;
+  margin: 1rem;
+  border: 2px solid rgba(96, 102, 208, 0.7);
+  border-radius: 12px;
+}
+
+.titulo-card {
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.card-quiz {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: 12px;
+}
+
+.titulo-card {
+  position: relative;
+  top: 30px;
+}
