@@ -30,16 +30,15 @@ h2 {
   border: 1px solid blue;
 }
 
-ul {
-  padding: 0;
-}
-
-ul li {
-  list-style: none;
+input {
   padding: 1rem;
   margin: 1rem;
   border: 2px solid rgba(96, 102, 208, 0.7);
   border-radius: 12px;
+}
+
+.card-opções label {
+  display: block;
 }
 
 .titulo-card {
@@ -49,7 +48,7 @@ ul li {
 }
 
 .card-quiz {
-  width: fit-content;
+  width: 400px;
   margin: 0 auto;
   padding: 1rem;
   background-color: #fff;
@@ -60,3 +59,4 @@ ul li {
   position: relative;
   top: 30px;
 }
+
