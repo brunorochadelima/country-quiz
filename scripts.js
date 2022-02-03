@@ -21,8 +21,3 @@ function proximaPagina() {
 
 var erros = 0;
 var acertos = 0;
-
-
-
-//https://pt.stackoverflow.com/questions/298280/estou-criando-um-quiz-e-n%C3%A3o-consigo-fazer-a-verifica%C3%A7%C3%A3o-com-javascript
-
