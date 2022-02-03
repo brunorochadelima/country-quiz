@@ -27,7 +27,6 @@ h2 {
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 .75rem;
-  border: 1px solid blue;
 }
 
 input {
@@ -58,5 +57,10 @@ input {
 .titulo-card {
   position: relative;
   top: 30px;
+}
+
+footer {
+  color: white;
+  text-align: center;
 }
 
