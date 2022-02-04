@@ -13,7 +13,7 @@ Depois de responder o sistema informa se o usuário acertou ou errou e caso a re
 
 ## Link para o site
 
- - [Clique aqui e veja o funcionamento do quiz](https://brunorochadelima.github.io/calculadora-imc/)
+ - [Clique aqui e veja o funcionamento do quiz](https://brunorochadelima.github.io/country-quiz/)
  
 ## Autor
 
