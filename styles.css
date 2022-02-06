@@ -14,6 +14,11 @@ body {
   background-size: cover;
 }
 
+p {
+  font-size: 1rem;
+}
+
+
 h1 {
   text-transform: uppercase;
   color: #fff;
@@ -36,6 +41,11 @@ input {
   border-radius: 12px;
 }
 
+#bnt-confirmar {
+  background-color: #3498db;
+  color: #fff;
+}
+
 .card-opções label {
   display: block;
 }
@@ -43,15 +53,15 @@ input {
 .titulo-card {
   display: flex;
   justify-content: center;
- 
 }
 
 .card-quiz {
-  width: 400px;
+  max-width: 400px;
   margin: 0 auto;
   padding: 1rem;
   background-color: #fff;
   border-radius: 12px;
+  margin-bottom: 1.5rem;
 }
 
 .titulo-card {
@@ -60,7 +70,20 @@ input {
 }
 
 footer {
-  color: white;
   text-align: center;
+  margin-top: 1rem;
 }
 
+@media screen and (max-width: 600px) {
+  .titulo-card {
+    top: 15px;
+  }
+
+  .titulo-card img {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+  }
+}
