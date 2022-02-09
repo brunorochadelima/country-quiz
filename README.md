@@ -2,7 +2,7 @@
 # Country quiz
 
 Quiz interativo que desafia os conhecimentos do usuário perguntando questões sobre países.
-Depois de responder o sistema informa se o usuário acertou ou errou e caso a resposta esteja errada é informado qual a opção é a correta.
+Após responder o sistema informa se o usuário acertou ou errou e caso a resposta esteja errada é informado qual a opção é a correta.
 
 
 ## 🎨 Demonstração
